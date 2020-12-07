@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">semana2desand</string>
+    <string name="btn_button">Boton</string>
+    <string name="app_welcome">Bievenido 123</string>
+    <string name="app_select">Seleccionar</string>
+    <string-array name="planetas">
+        <item>Mercurio</item>
+        <item>Venus</item>
+        <item>Tierra</item>
+        <item>Marte</item>
+        <item>Jupiter</item>
+    </string-array>
+
+    <string-array name="lista">
+        <item>Item1</item>
+        <item>Item2</item>
+        <item>Item3</item>
+        <item>Item4</item>
+        <item>Item5</item>
+    </string-array>
+
+</resources>
